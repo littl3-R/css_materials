@@ -1,13 +1,5 @@
 (undo-tree-save-format-version . 1)
 "8ede886ec11e449bca502a154565377d7c7d27d3"
-[nil nil nil nil (25170 44511 253761 372000) 0 nil]
-([nil nil ((1 . 2) (t . -1)) nil (25170 44511 253759 140000) 0 nil])
-([nil nil ((apply yas--take-care-of-redo #s(yas--snippet nil (#s(yas--field 1 10 22 nil nil nil t #s(yas--field 2 35 35 nil nil nil nil #s(yas--exit 176 nil))) #s(yas--field 2 35 35 nil nil nil nil #s(yas--exit 176 nil))) #s(yas--exit 176 nil) 0 nil #s(yas--field 1 10 22 nil nil nil t #s(yas--field 2 35 35 nil nil nil nil #s(yas--exit 176 nil))) nil nil)) (#("  " 0 2 (fontified nil)) . -176) (undo-tree-id0 . -2) (1 . 179) (#("__" 0 2 (fontified nil)) . 1) (1 . 3) (#("_" 0 1 (fontified t)) . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) 2) nil (25170 44511 253754 391000) 0 nil])
-([nil nil ((apply yas--snippet-revive 1 177 #s(yas--snippet nil (#s(yas--field 1 10 22 nil nil nil t #s(yas--field 2 35 35 nil nil nil nil #s(yas--exit 176 nil))) #s(yas--field 2 35 35 nil nil nil nil #s(yas--exit 176 nil))) #s(yas--exit 176 nil) 0 nil #s(yas--field 1 10 22 nil nil nil t #s(yas--field 2 35 35 nil nil nil nil #s(yas--exit 176 nil))) nil nil)) (10 . 115) (#("Css Material
-#+SUBTITLE: 
-#+AUTHOR: Andrea Garau
-#+EMAIL: andrea.garau@itoworld.com
-#+DATE: 2022-04-10 10" 0 13 (fontified t font-lock-fontified t face org-document-title) 13 24 (fontified t font-lock-fontified t face org-document-info-keyword) 24 25 (fontified t) 25 26 (fontified t font-lock-fontified t face org-document-info) 26 35 (fontified t font-lock-fontified t face org-document-info-keyword) 35 36 (fontified t) 36 49 (fontified t font-lock-fontified t face org-document-info) 49 57 (fontified t font-lock-fontified t face org-document-info-keyword) 57 58 (fontified t) 58 84 (fontified t font-lock-fontified t face org-document-info) 84 91 (fontified t font-lock-fontified t face org-document-info-keyword) 91 92 (fontified t) 92 105 (fontified t font-lock-fontified t face org-document-info)) . 10)) nil (25170 44511 253700 309000) 0 nil])
-([nil nil ((14 . 22) (#("MATERIAL" 0 8 (fontified t font-lock-fontified t face org-document-title)) . 14)) nil (25170 44511 253696 464000) 0 nil])
-([nil current ((35 . 47)) nil (25170 44511 253689 149000) 0 nil])
+[nil nil nil nil (25170 45067 236385 519000) 0 nil]
+([nil current ((1 . 189) (t . 0)) nil (25170 45067 236379 276000) 0 nil])
 nil
